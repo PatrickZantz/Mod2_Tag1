@@ -1,0 +1,9 @@
+@use "./fonts";
+
+$Inter: "Inter";
+
+html {
+    font-size: 10px;
+    font-family: $Inter;
+    font-weight: bolder;
+}

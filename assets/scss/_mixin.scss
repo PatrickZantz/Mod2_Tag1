@@ -1,0 +1,6 @@
+@import "fonts";
+
+@mixin padd_left_right($param1, $param2) {
+    padding-left: $param1;
+    padding-right: $param2;
+}
